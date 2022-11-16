@@ -19,7 +19,7 @@
         "email": "rafi59_dev@srvmaison.fr.nf"
     },
     "requirements": {
-        "yunohost": ">= 11.0.9"
+        "yunohost": ">= 4.4.2.14"
     },
     "multi_instance": false,
     "services": [
